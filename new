@@ -2305,6 +2305,15 @@
             "employee_url": "https://hemis2.zarmeduniver.com/",
             "university_type": "12",
             "version_type": "11"
+        },
+        {
+            "code": "941",
+            "name": "Webster University Tashkent",
+            "api_url": " ",
+            "student_url": " ",
+            "employee_url": " ",
+            "university_type": "12",
+            "version_type": "11"
         }
     ],
     "code": 200
